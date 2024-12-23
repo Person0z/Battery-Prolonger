@@ -1,6 +1,23 @@
-# Battery-Prolonger - Extend your battery life!
+<div align="center">
+  <h1>Battery-Prolonger - Extend your battery life!</h1>
+</div>
 
 > [!WARNING]
-> This module is not confirmed to work with any device, kernel, operating system, etc. Use at your own risk!
+> This module has not been confirmed to work with every device, kernel, operating system, etc. Use at your own risk!
 > Using this module, you agree that I ("Person0z") am not responsible for any damages caused to your device(s) by using this experimental module; you have been warned!
 ---
+
+## Features (So far, and more to come!)
+- Reduces CPU clock speeds to preserve battery and allows your CPU to last much longer.
+
+## Future Updates
+- Volume Button options on install allow you to choose the power-saving profile you want for your device, such as Normal, Moderate, or Extreme. 
+- Edit kernel settings to fine-tune settings to improve battery life.  
+- Edit build.prop/system.prop and fine-tune to make your battery last longer.
+
+## Activity
+![Alt](https://repobeats.axiom.co/api/embed/8c790560a7ec7912c584ad311eea0f074217b847.svg "Repobeats analytics image")
+ 
+## Credits
+- [@topjohnwu](https://github.com/topjohnwu) - Magisk Creator
+- [@Zackptg5](https://github.com/Zackptg5/MMT-Extended) - MMTE Template
