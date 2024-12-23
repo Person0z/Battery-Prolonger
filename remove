@@ -1,0 +1,1 @@
+# Removes module on next reboot in case of a bootloop, as this module is not confirmed to work fully yet.
