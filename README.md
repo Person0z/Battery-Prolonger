@@ -1,5 +1,4 @@
-# Battery-Prolonger
-  A highly experimental Magisk module that will extend your battery life by tweaking the kernel, CPU, and GPU settings!
+# Battery-Prolonger - Extend your battery life!
 
 > [!WARNING]
 > This module is not confirmed to work with any device, kernel, operating system, etc. Use at your own risk!
