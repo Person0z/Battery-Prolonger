@@ -14,7 +14,8 @@
 - Volume Button options on install allow you to choose the power-saving profile you want for your device, such as Normal, Moderate, or Extreme. 
 - Edit kernel settings to fine-tune settings to improve battery life.  
 - Edit build.prop/system.prop and fine-tune to make your battery last longer.
-
+- Ai tuner using GPT or Gemini -- Maybe??
+- 
 ## Activity
 ![Alt](https://repobeats.axiom.co/api/embed/8c790560a7ec7912c584ad311eea0f074217b847.svg "Repobeats analytics image")
  
