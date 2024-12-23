@@ -1,0 +1,7 @@
+id=M-BP
+name=Battery Prolonger
+version=v1.0
+versionCode=1
+author=Person0z
+description=A highly experimental module that will extend your battery life by tweaking kernel, CPU, and GPU settings!
+updateJson=https://raw.githubusercontent.com/
