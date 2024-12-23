@@ -11,6 +11,12 @@ ro.config.radio_power_optimize=true
 wifi.supplicant_scan_interval=180
 ro.vendor.wlan.scan.interval=180
 
+# Disable Mobile Network (Test Only)
+persist.radio.airplane_mode_on=1
+persist.sys.radio.airplane_mode=1
+ro.telephony.disable-network=true
+ro.config.hw_power_saving=true
+
 # UI and Animation Tweaks
 persist.sys.window_animation_scale=0.5
 persist.sys.transition_animation_scale=0.5
