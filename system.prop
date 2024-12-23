@@ -1,0 +1,32 @@
+# CPU and Performance Tweaks
+ro.config.hw_power_saving=true
+ro.config.hw_quickpoweron=false
+ro.config.hw_dolby_dozemode=true
+ro.vendor.qti.sys.fw.bg_apps_limit=10
+persist.sys.background_processes=5
+
+# Network and Radio Tweaks
+persist.radio.add_power_save=1
+ro.config.radio_power_optimize=true
+wifi.supplicant_scan_interval=180
+ro.vendor.wlan.scan.interval=180
+
+# UI and Animation Tweaks
+persist.sys.window_animation_scale=0.5
+persist.sys.transition_animation_scale=0.5
+persist.sys.animator_duration_scale=0.5
+debug.hwui.renderer=skiagl
+debug.hwui.disable_vsync=true
+
+# Doze Mode Enhancements
+ro.vendor.powerhal.auto_suspend=1
+ro.vendor.powerhal.enable_cpr=1
+persist.sys.wake_lock=false
+ro.config.doze_after_screen_off=true
+
+# Miscellaneous Tweaks
+ro.config.nocheckin=1
+profiler.force_disable_err_rpt=1
+profiler.force_disable_ulog=1
+persist.sys.purgeable_assets=1
+persist.sys.ui.hw=true
